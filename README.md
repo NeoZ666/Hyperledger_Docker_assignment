@@ -8,7 +8,7 @@
 #### Step 2: Copy Chaincode to Docker Image
 ![images](image-1.png)
 
-#### Step 3: Deployed on 
+#### Step 3: Deployed on Docker
 ![terminal](image-2.png)
 
 #### Step 4: Instantiate Chaincode on Channel
