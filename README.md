@@ -9,3 +9,4 @@ b. Retrieve
 c. Update
 d. GetHistory
 e. GetbyNonPrimaryKey (Using CouchDB Rich Queries)
+(ADDING RELAVENT FILES FOR Q3)
