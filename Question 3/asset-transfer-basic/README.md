@@ -1,4 +1,6 @@
-# Asset transfer basic sample
+# Changes made for Go language according to the given JD.
+
+## Asset transfer basic sample
 
 The asset transfer basic sample demonstrates:
 
@@ -29,6 +31,7 @@ The smart contract (in folder `chaincode-xyz`) implements the following function
 - UpdateAsset
 - DeleteAsset
 - TransferAsset
+- GetAssetByNonPrimaryKey
 
 Note that the asset transfer implemented by the smart contract is a simplified scenario, without ownership validation, meant only to demonstrate how to invoke transactions.
 
