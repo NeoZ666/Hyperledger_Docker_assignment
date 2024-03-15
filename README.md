@@ -2,13 +2,13 @@
 
 ### 1. Steps for Installing and Instantiating the Chaincode on HLF2.2
 
-#### Step 1: Containers
+#### Step 1: Access Ubuntu Terminal for the Docker Container
 ![container](image.png)
 
 #### Step 2: Copy Chaincode to Docker Image
 ![images](image-1.png)
 
-#### Step 3: Access Terminal in Docker Container
+#### Step 3: Deployed on 
 ![terminal](image-2.png)
 
 #### Step 4: Instantiate Chaincode on Channel
