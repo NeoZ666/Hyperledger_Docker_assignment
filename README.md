@@ -2,7 +2,7 @@
 
 ### 1. Steps for Installing and Instantiating the Chaincode on HLF2.2
 
-#### Step 1: Installation
+#### Step 1: Containers
 ![container](image.png)
 
 #### Step 2: Copy Chaincode to Docker Image
