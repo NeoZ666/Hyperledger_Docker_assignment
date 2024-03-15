@@ -1,5 +1,7 @@
 # SimplyFI_assignment
 1. Steps for installing and instantiating the Chain code on HLF2.2
+  ![container](image.png)
+  ![images](image-1.png)
   
 2. Explain Cryptogen and Configtxgen
 
