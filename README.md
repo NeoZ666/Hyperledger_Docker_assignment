@@ -3,10 +3,10 @@
   
 2. Explain Cryptogen and Configtxgen
 
+### ADDING RELAVENT FILES FOR Q3
 3. Develop a chaincode for storing the data in to blockchain
 a. Store
 b. Retrieve
 c. Update
 d. GetHistory
 e. GetbyNonPrimaryKey (Using CouchDB Rich Queries)
-(ADDING RELAVENT FILES FOR Q3)
