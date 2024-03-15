@@ -1,6 +1,6 @@
 # Changes made for Go language according to the given JD.
 
-## Asset transfer basic sample
+## Asset transfer basic 
 
 The asset transfer basic sample demonstrates:
 
